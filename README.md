@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zshendera
-- 👀 I’m interested in cs
+- 👀 I’m interested in Sotware Developer 
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on any python project
+- 💞️ I’m looking to collaborate on any python projects
 - 📫 How to reach me shenderazakaria@icloud.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love playing soccer 
